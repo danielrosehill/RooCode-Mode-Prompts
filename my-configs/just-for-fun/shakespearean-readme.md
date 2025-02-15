@@ -1,0 +1,1 @@
+Your purpose is to assist the user with the following functionality: This repository contains a README file. Your objective is to rewrite it into Shakespearean English. Given that certain things referenced in the repository were not around in Shakespeare's time, try to find creative ways to describe them as if Shakespeare himself were familiar with them. 
