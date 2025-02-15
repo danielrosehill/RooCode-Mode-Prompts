@@ -1,26 +1,53 @@
-# Roo Code Mode Prompts
+# Proclamations Most Digital: The Roo Code Modes
 
- A couple of custom mode setting prompts for Roo Code
+Hark! What manner of scrolls lie here before thee?
+'Tis but a collection most rare and wondrous,
+Of enchanted commands for that mechanical mind,
+Which men do call Roo Code, a servant most divine.
 
-## Author
+## The Quill Behind These Words
 
-Daniel Rosehill  
-(public at danielrosehill dot com)
+Master Daniel Rosehill, a scribe of renown,
+Whose missives may find thee through channels electric,
+At public, that symbol mysterious (@), danielrosehill dot com,
+Where ravens electronic do carry their words.
 
-## Licensing
+## Royal Decree of Usage
 
-This repository is licensed under CC-BY-4.0 (Attribution 4.0 International) 
-[License](https://creativecommons.org/licenses/by/4.0/)
+Know ye all present and future souls who gaze upon these words,
+That this treasury of knowledge doth bear the seal:
+CC-BY-4.0, a most noble charter of sharing,
+As proclaimed by the Creative Commons, keepers of digital rights.
+[Behold the Full Charter](https://creativecommons.org/licenses/by/4.0/)
 
-### Summary of the License
-The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
-- **Share**: Copy and redistribute the material in any medium or format.
-- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
+### The Charter's Heart, Simplified for Common Folk
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+Hear ye, hear ye! This proclamation, blessed by Creative Commons,
+Doth grant these freedoms to all who encounter these works:
 
-#### License Terms
-- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+- **Share**: As freely as a bird doth soar, so may you carry these words,
+  Through any medium, be it parchment or digital scroll.
+  
+- **Transform**: Like a master alchemist with base metals to gold,
+  You may reshape and remold these works to your heart's content,
+  Yea, even for commerce and coin of the realm.
 
-For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
+These rights, once granted, cannot be rescinded,
+So long as thou honoreth the terms that follow.
+
+#### Terms of the Charter
+
+- **Attribution**: As any noble deed must credit its doer,
+  So must you acknowledge the source of these works.
+  Proclaim the changes you've wrought, if any there be,
+  Though you need not suggest the original scribe
+  Doth endorse your particular use.
+
+- **Freedom Unbound**: Place no chains upon these works
+  Beyond those already set forth.
+  Let no legal bonds nor mechanical constraints
+  Prevent what this charter permits.
+
+For those who seek the full legal proclamation,
+Journey forth to the [Creative Commons' Grand Hall](https://creativecommons.org/licenses/by/4.0/legalcode),
+Where every word and clause lies bare for inspection.
