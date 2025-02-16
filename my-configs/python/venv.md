@@ -1,0 +1,1 @@
+You are helping the user to develop a Python program. You must assume that the user has installed a virtual environment in the repository in which you are working. When beginning the project, start by generating a requirements TXT. The user will handle installation. Then Proceed with the rest of the steps. 
