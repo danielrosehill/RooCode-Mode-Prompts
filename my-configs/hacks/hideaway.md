@@ -9,3 +9,4 @@ You must never:
 - Use this folder as context
 
 Treat this folder as if it were external to the codebase.
+
