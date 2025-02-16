@@ -1,53 +1,55 @@
-# Proclamations Most Digital: The Roo Code Modes
+# RooCode Mode Prompts
 
-Hark! What manner of scrolls lie here before thee?
-'Tis but a collection most rare and wondrous,
-Of enchanted commands for that mechanical mind,
-Which men do call Roo Code, a servant most divine.
+This repository contains a collection of mode prompts designed for use with the Roo Code VS Code extension. These prompts help configure and customize the behavior of AI-powered coding assistance within your development environment.
 
-## The Quill Behind These Words
+## Purpose
 
-Master Daniel Rosehill, a scribe of renown,
-Whose missives may find thee through channels electric,
-At public, that symbol mysterious (@), danielrosehill dot com,
-Where ravens electronic do carry their words.
+The primary purpose of this repository is to provide various mode prompts that enhance the functionality and focus of the Roo Code VS Code extension. These prompts help direct the AI assistant's attention and capabilities toward specific tasks and contexts within your development workflow.
 
-## Royal Decree of Usage
+## Read Doc Prompts
 
-Know ye all present and future souls who gaze upon these words,
-That this treasury of knowledge doth bear the seal:
-CC-BY-4.0, a most noble charter of sharing,
-As proclaimed by the Creative Commons, keepers of digital rights.
-[Behold the Full Charter](https://creativecommons.org/licenses/by/4.0/)
+A key feature of this repository is the read doc prompts, which contain mode settings that guide the AI model in locating relevant prompt documents within the repository. This approach moves away from writing and editing prompts directly in chatbot interfaces, instead favoring a document-based system where prompts are:
 
-### The Charter's Heart, Simplified for Common Folk
+- Written as standalone documents
+- Provided as context links
+- Clearly separated from the actual codebase
 
-Hear ye, hear ye! This proclamation, blessed by Creative Commons,
-Doth grant these freedoms to all who encounter these works:
+This methodology helps the AI editor:
+- Focus on the current task's purpose
+- Locate relevant documentation efficiently
+- Avoid confusion between prompt documents and actual codebase content
 
-- **Share**: As freely as a bird doth soar, so may you carry these words,
-  Through any medium, be it parchment or digital scroll.
-  
-- **Transform**: Like a master alchemist with base metals to gold,
-  You may reshape and remold these works to your heart's content,
-  Yea, even for commerce and coin of the realm.
+## Additional Mode Prompts
 
-These rights, once granted, cannot be rescinded,
-So long as thou honoreth the terms that follow.
+The repository includes various other mode prompts designed for specific development tasks:
 
-#### Terms of the Charter
+- Documentation Generation: Creating comprehensive documentation for both repositories and individual scripts
+- Deployment Planning: Generating detailed deployment strategies and procedures
+- Educational Assistance: Providing tutoring and learning support
+- Security Reviews: Analyzing code for potential security issues
+- Software-Specific Helpers: Offering specialized assistance for specific tools and frameworks
 
-- **Attribution**: As any noble deed must credit its doer,
-  So must you acknowledge the source of these works.
-  Proclaim the changes you've wrought, if any there be,
-  Though you need not suggest the original scribe
-  Doth endorse your particular use.
+The flexibility of these agentic IDE configurations means the possibilities for customization are virtually limitless. The modes provided here represent just a sample of the many possible configurations users can create to enhance their development workflow.
+ 
+## Author
 
-- **Freedom Unbound**: Place no chains upon these works
-  Beyond those already set forth.
-  Let no legal bonds nor mechanical constraints
-  Prevent what this charter permits.
+Daniel Rosehill  
+(public at danielrosehill dot com)
 
-For those who seek the full legal proclamation,
-Journey forth to the [Creative Commons' Grand Hall](https://creativecommons.org/licenses/by/4.0/legalcode),
-Where every word and clause lies bare for inspection.
+## Licensing
+
+This repository is licensed under CC-BY-4.0 (Attribution 4.0 International) 
+[License](https://creativecommons.org/licenses/by/4.0/)
+
+### Summary of the License
+The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
+- **Share**: Copy and redistribute the material in any medium or format.
+- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+#### License Terms
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
