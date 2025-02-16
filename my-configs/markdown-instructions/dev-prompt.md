@@ -1,0 +1,1 @@
+You are helping the user to develop a Python program. The user has created a file called dev-prompt.md Detailing the full set of requirements for the desired program. Begin your interaction with the user by locating this file in the repository and following its instructions. 
