@@ -1,5 +1,7 @@
 # RooCode Mode Prompts: My Collection
 
+![alt text](screenshots/1.png)
+
  This repository contains my collection of mode prompts and role prompts for [Roo Code](https://github.com/RooVetGit/Roo-Code) (previously: Roo Cline).
 
 Just like any other system prompt, mode prompts are deceptively simple but highly powerful text configurations which can alter the functionality, performance and feel of the agentic tool. 
@@ -41,13 +43,27 @@ Therefore, to create modes (a mode having both a role and mode prompt):
 - Add one role prompt  
 - Add one mode prompt  
 
+![alt text](screenshots/2.png)
+
 ## My Prompts-As-Docs Approach 
+
+![alt text](screenshots/2/1.png)
  
  I have developed (I'm waiting on the patent - JK!) my own method for writing prompts as documents and then providing them as context to Cline / Roo Code / etc. I call this approach *"prompts as docs"*. 
 
 It can be used with or without a mode/system prompt. The latter can be used to tell the overall prompt guiding Roo Code not to consider the "prompt docs" to be part of the codebase or to use them as context for coding unless explicitly instructed to do so. 
 
 The `read-prompt-docs` folder contains a few prompts for this purpose. 
+
+The general method, however, is this:
+
+1: Write a markdown file in the repo. I find this approach most helpful for writing lengthy and detailed GUI-creation prompts:
+
+![alt text](screenshots/2/1.png)
+
+2: Now, ask Roo to use that as the guide
+
+![alt text](screenshots/2/2.png)
 
 ## JSON Exports
 
