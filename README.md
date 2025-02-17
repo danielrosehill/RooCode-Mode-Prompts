@@ -1,36 +1,60 @@
-# RooCode Mode Prompts
+# RooCode Mode Prompts: My Collection
 
-This repository contains a collection of mode prompts designed for use with the Roo Code VS Code extension. These prompts help configure and customize the behavior of AI-powered coding assistance within your development environment.
+ This repository contains my collection of mode prompts and role prompts for [Roo Code](https://github.com/RooVetGit/Roo-Code) (previously: Roo Cline).
 
-## Purpose
+Just like any other system prompt, mode prompts are deceptively simple but highly powerful text configurations which can alter the functionality, performance and feel of the agentic tool. 
 
-The primary purpose of this repository is to provide various mode prompts that enhance the functionality and focus of the Roo Code VS Code extension. These prompts help direct the AI assistant's attention and capabilities toward specific tasks and contexts within your development workflow.
+## Role Prompts, Mode Prompts
 
-## Read Doc Prompts
+A huge benefit of Roo Code is the fact that it allows users to create as many personal prompts as they wish to guide the tool to behaving as they wish. 
 
-A key feature of this repository is the read doc prompts, which contain mode settings that guide the AI model in locating relevant prompt documents within the repository. This approach moves away from writing and editing prompts directly in chatbot interfaces, instead favoring a document-based system where prompts are:
+Your prompts can be workspace-level-specific by adding them at:
 
-- Written as standalone documents
-- Provided as context links
-- Clearly separated from the actual codebase
+`/home/daniel/Development/git-repositories/My-Repos/RooCode-Mode-Prompts/.clinerules-code`
 
-This methodology helps the AI editor:
-- Focus on the current task's purpose
-- Locate relevant documentation efficiently
-- Avoid confusion between prompt documents and actual codebase content
+Or they can be "global" - meaning that they will hold throughout whatever you're working on in the IDE.
 
-## Additional Mode Prompts
+## Role  -> Mode 
 
-The repository includes various other mode prompts designed for specific development tasks:
+My understanding of the role and mode prompt hierarchy is something like this (for more precise definitions, see the project's docs):
 
-- Documentation Generation: Creating comprehensive documentation for both repositories and individual scripts
-- Deployment Planning: Generating detailed deployment strategies and procedures
-- Educational Assistance: Providing tutoring and learning support
-- Security Reviews: Analyzing code for potential security issues
-- Software-Specific Helpers: Offering specialized assistance for specific tools and frameworks
+- The "role" prompt directs the overall *function* of the agent 
+- The "mode" prompt alllows you to tweak the *nuances* of that behavior  
 
-The flexibility of these agentic IDE configurations means the possibilities for customization are virtually limitless. The modes provided here represent just a sample of the many possible configurations users can create to enhance their development workflow.
+This segmentation makes a lot of sense!
+
+The agent can be (first and foremost) a coding agent (the classic use-case) with modes for discrete tasks like debugging Python or writing Java. 
+
+Or it can be (first and foremost) a documentation agent. 
+
+I try to think of it like this:
+
+Each role config transforms Roo into a different team member in your imaginary coding assistance startup. The "mode" determines what that team member actually does at any given point in time. 
+
+For that reason I (personally):
+
+- Have only a few role prompts  
+- Am working on quite a lot of targeted mode prompts to be able to quickly zone in Roo on specific tasks without having to prompt the same instructions over and over again  
+
+Therefore, to create modes (a mode having both a role and mode prompt):
+
+- Add one role prompt  
+- Add one mode prompt  
+
+## My Prompts-As-Docs Approach 
  
+ I have developed (I'm waiting on the patent - JK!) my own method for writing prompts as documents and then providing them as context to Cline / Roo Code / etc. I call this approach *"prompts as docs"*. 
+
+It can be used with or without a mode/system prompt. The latter can be used to tell the overall prompt guiding Roo Code not to consider the "prompt docs" to be part of the codebase or to use them as context for coding unless explicitly instructed to do so. 
+
+The `read-prompt-docs` folder contains a few prompts for this purpose. 
+
+## JSON Exports
+
+I will periodically copy my own `JSON` config file into the repository for anyone who would like to import some of the configs in that way
+
+---
+
 ## Author
 
 Daniel Rosehill  
