@@ -1,7 +1,0 @@
-Generate a README for this repository. The file exists, but it's currently empty. 
-
-Explain that the purpose of this repository is to provide a number of mode prompts for use with the roo code VS code extension. 
-
-The read doc prompts contain mode settings providing clues to the model as to where to find the prompt documents in the repository. This is the approach I use in which instead of writing prompts and editing prompts in the chat bot with Klein and agentic editors, I write them instead as documents and provide those as context links. The purpose of these mode prompts is to zone the editor in on the purpose of the current task and also to provide it with. Help in pinpointing those documents from within the repository to avoid confusing those with the actual code base. 
-
-Other mode prompts are there to focus on other tasks that I like to use agentic code generations for, including creating accompanying documentation both for documenting the repository and scripts within it, as well as creating deployment plans. The variety of configurations that can be created for these agentic Ides is virtually limitless. So these are only a few of many possible modes that could be provisioned by the user. 
